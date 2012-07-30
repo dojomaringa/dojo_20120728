@@ -25,9 +25,6 @@ class Animal
   end
 end
 
-
-
-
 class Caracteristica
   attr_reader :nome, :sim, :nao
 
